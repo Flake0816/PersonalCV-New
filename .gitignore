@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+node_modules
+=======
+/node_modules
+/build
+.DS_Store
+>>>>>>> bd58c6b452327e27dd00c5ff376e61176cc1224c
