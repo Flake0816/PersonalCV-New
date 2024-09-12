@@ -44,7 +44,8 @@ more see: https://javascript.plainenglish.io/deploying-any-app-to-github-pages-1
 
 
 ## How to Deploy Pages on the Github
-### 1. Install 'gh-pages' respository
+### 1. Install
+* Install 'gh-pages' respository
     ```shell
     sudo npm install gh-pages -g
     ```
