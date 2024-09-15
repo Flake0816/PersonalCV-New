@@ -51,7 +51,7 @@ https://medium.com/@ninadkarlekar/deploying-your-react-project-on-github-pages-a
     npm install gh-pages --save-dev --legacy-peer-deps
     ```
 
-    Problem: <br>
+    **Problem:**<br>
     ```shell
     Conflicting peer dependency: react@16.14.0
     npm ERR! node_modules/react
@@ -59,7 +59,7 @@ https://medium.com/@ninadkarlekar/deploying-your-react-project-on-github-pages-a
     npm ERR!   node_modules/react-reveal
     npm ERR!     react-reveal@"^1.2.2" from the root project
     ```
-    Solution: <br>
+    **Solution:**<br>
     * Modified package.json: Set react and React-DOM to 16.14.0.
         ```shell
         {
@@ -84,7 +84,7 @@ https://medium.com/@ninadkarlekar/deploying-your-react-project-on-github-pages-a
         ```shell
         npm list react react-dom react-reveal
         ```
-    Result: <br>
+    **Result:**<br>
     Current versions of 'react' 'react-dom' 'react-reveal' : 
     ```shell
     cyberlark@0.1.0 C:\Z\GitHub\PersonalCV-New
