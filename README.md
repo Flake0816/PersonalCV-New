@@ -31,7 +31,7 @@ Created a personal CV website based on Cyberlark David Resume Template to displa
     ```
 
 
-## Build
+## How to Build
 ```shell
 npm run build
 ```
