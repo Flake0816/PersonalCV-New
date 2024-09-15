@@ -38,8 +38,9 @@ npm run build
 
 
 ## How to Deploy Git Pages
-more see: https://javascript.plainenglish.io/deploying-any-app-to-github-pages-1e8e946bf890
-or: https://medium.com/@ninadkarlekar/deploying-your-react-project-on-github-pages-a-step-by-step-guide-f8b364fa75fa
+more see: <br>
+https://javascript.plainenglish.io/deploying-any-app-to-github-pages-1e8e946bf890<br>
+https://medium.com/@ninadkarlekar/deploying-your-react-project-on-github-pages-a-step-by-step-guide-f8b364fa75fa<br>
 ### Install
 1. Install 'gh-pages' respository
     ```shell
